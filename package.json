@@ -1,11 +1,11 @@
 {
-    "name": "react-fullscreen-form",
-    "version": "0.0.1",
+    "name": "react-fs-form",
+    "version": "0.0.3",
     "description": "Put a description here",
     "author": {
-        "name": "Mustafa Turgay Kadayıfçı",
-        "email": "mtkadayifci@gmail.com",
-        "url": "https://github.com/mtkadayifci"
+        "name": "Merwan Ghomrani",
+        "email": "merwanghomrani@gmail.com",
+        "url": "http://about.me/gmerwan"
     },
     "main": "build/index.js",
     "peerDependencies": {
