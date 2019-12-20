@@ -46,10 +46,6 @@
 	font-size: 2.5em;
 }
 
-/* .no-js .fs-form {
-	padding: 0 0 6em 0;
-} */
-
 /* Views (fullscreen and overview)*/
 .fs-form-full {
 	top: 32%;
@@ -120,10 +116,6 @@ button.fs-continue,
 	visibility: hidden;
 }
 
-/* .no-js .fs-form-full .fs-fields > li {
-	visibility: visible;
-} */
-
 .fs-show {
 	visibility: visible !important;
 }
@@ -174,14 +166,6 @@ button.fs-continue,
 	position: absolute;
 	width: 100%;
 }
-
-/* .fs-form-overview .fs-fields > li,
-.no-js .fs-form .fs-fields > li {
-	margin: 1em 0 2em;
-	padding: 0 0 2em 0;
-	border-bottom: 2px solid rgba(0,0,0,0.1);
-	position: unset;
-} */
 
 .fs-form-overview .fs-fields > li {
 	margin: 1em 0 2em;
@@ -648,12 +632,6 @@ button.fs-continue {
 	font-weight: 700;
 	color: rgba(0,0,0,0.4);
 }
-
-/* .fs-form-overview .fs-submit,
-.no-js .fs-form .fs-submit  {
-	display: block;
-	float: right;
-} */
 
 .fs-form-overview .fs-submit {
 	display: block;
